@@ -41,7 +41,7 @@ berkembang.
 ## Pengalaman Volunteer
 ####    Kaizen Area| IT Support `Sep 2019 - Des 2022`
 #####   Kaizen Area merupakan platform edukasi non-profit yang menyediakan kelas tutoring gratis dan bahan belajar untuk SMA/sederajat.
-   -  Memenuhi kebutuhan operasional acara live class
+   - Memenuhi kebutuhan operasional acara live class
    - Bertanggung jawab atas teknis operasional acara live class
    - Berkomunikasi dengan tutor terkait persiapan acara live class yang akan diadakan
 ---
