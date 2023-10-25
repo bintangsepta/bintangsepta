@@ -20,10 +20,13 @@ Nilai Ijazah rata - rata 86,93
    - Beginner II | Cikarang Utara | Jun 2015 - Okt 2015
 
 ## Pengalaman Pekerjaan
-#### PT. Semangat Enam Saudara | Teknisi Maintenance | Kab. Bekasi | Okt 2019 - Nov 2022
+#### PT. Semangat Enam Saudara | Teknisi Maintenance | Cibitung | Okt 2019 - Nov 2022
    - Melakukan pagging system speaker di area RSUD Kabupaten Bekasi
    - Melakukan maintenance PABX telephone RSUD Kabupaten Bekasi
-
+#### PT. Phincon | Jr. IT Consultant | Jakarta Selatan | Jun 2023 - Sekarang
+   - Melakukan implementasi komponen
+   - Melakukan konfigurasi pada komponen
+   - Membuat dokumen user guide implementasi komponen
 ## Pengalaman Pelatihan
 ####    BBPVP Bekasi | Network Professional | Kab. Bekasi | Agu 2019 - Okt 2022
 #####   Network Administration
@@ -40,7 +43,7 @@ Nilai Ijazah rata - rata 86,93
 
 ## Pengalaman Volunteer
 ####    Kaizen Area | IT Support | Sep 2019 - Des 2022
-#####   Kaizen Area merupakan platform edukasi non-profit yang menyediakan kelas tutoring gratis dan bahan belajar untuk SMA/sederajat.
+Kaizen Area merupakan platform edukasi non-profit yang menyediakan kelas tutoring gratis dan bahan belajar untuk SMA/sederajat.
    - Memenuhi kebutuhan operasional acara live class
    - Bertanggung jawab atas teknis operasional acara live class
    - Berkomunikasi dengan tutor terkait persiapan acara live class yang akan diadakan
