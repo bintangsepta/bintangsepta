@@ -11,7 +11,7 @@ berkembang.
 ## Pendidikan Formal
 
 #### SMK Dharma Paramitha | Teknik Komputer Jaringan | Kab. Bekasi | Jun 2019 - Mei 2022
-##### Nilai Ijazah rata - rata 86,93
+Nilai Ijazah rata - rata 86,93
 
 ## Pendidikan Non Formal
 
